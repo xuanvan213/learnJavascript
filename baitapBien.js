@@ -1,0 +1,10 @@
+var x = 9;
+var  y = 6;
+var Tong = x + y;
+var Hieu = x - y;
+var Tich = x * y;
+var Thuong = x / y;
+console.log(Tong);
+console.log(Hieu);
+console.log(Tich);
+console.log(Thuong);
